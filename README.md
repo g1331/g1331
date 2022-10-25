@@ -8,7 +8,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=g1331" /> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=g1331" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=g1331" /> </div> -->
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=g1331&theme=xcode" /> </div>
 
