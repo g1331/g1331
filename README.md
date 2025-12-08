@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there, I'm 13!</h1>
+  <h2>Hi there!</h1>
   <p>
     I'm passionate about learning AI and building innovative projects.
   </p>
