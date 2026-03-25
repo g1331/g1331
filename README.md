@@ -36,7 +36,6 @@
   <div>
     <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/Model_Context_Protocol-FF6F00?style=for-the-badge&logo=json&logoColor=white" />
   </div>
   
