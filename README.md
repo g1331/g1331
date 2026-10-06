@@ -31,5 +31,3 @@ Also building **[bf-manager](https://github.com/g1331/bf-manager)** — a Battle
   <img src="./profile/stats.svg" width="56%" alt="Umaru's GitHub activity statistics" />
   <img src="./profile/top-langs.svg" width="40%" alt="Most used languages across public repositories" />
 </p>
-
-<sub>Public repository statistics, refreshed daily. Language percentages describe repository code, rather than proficiency.</sub>
