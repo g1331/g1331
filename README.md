@@ -4,18 +4,7 @@
 
 I build tools that connect AI to practical workflows — from model routing and MCP servers to automotive configuration and chat bots. Currently exploring Rust through hands-on projects.
 
-[Explore my repositories](https://github.com/g1331?tab=repositories) · [My stack & discoveries](https://github.com/g1331?tab=stars) · [Get in touch](mailto:caleb.1331@outlook.com)
-
-## Selected work
-
-| Project | What I'm building | Stack |
-| :--- | :--- | :--- |
-| **[autsaro](https://github.com/g1331/autsaro)** | A workbench for AUTOSAR Classic configuration and code generation. | Rust · Tauri |
-| **[AutoRouter](https://github.com/g1331/AutoRouter)** | A minimal AI API proxy for multiple upstream providers. | TypeScript |
-| **[dbc-mcp-server](https://github.com/g1331/dbc-mcp-server)** | MCP tools for editing CAN database messages, signals, and nodes. | Python · MCP · CAN |
-| **[tenko](https://github.com/g1331/tenko)** | A QQ group management bot built on Entari, with Satori / OneBot 11 and NapCat. | Python · Bot protocols |
-
-Also building **[bf-manager](https://github.com/g1331/bf-manager)** — a Battlefield server management and statistics platform.
+[Explore my repositories](https://github.com/g1331?tab=repositories) · [My stack & discoveries](https://github.com/g1331?tab=stars)
 
 ## Tools & interests
 
