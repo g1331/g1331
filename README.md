@@ -6,7 +6,7 @@ I build tools that connect AI to practical workflows — from model routing and 
 
 ## Tools & interests
 
-- **Languages:** Python · TypeScript · Rust · C#
+- **Languages:** Python · Rust · C
 - **AI & tooling:** AI agents · Model Context Protocol · OpenAI · Claude
 - **Protocols & systems:** AUTOSAR · CAN / DBC · ZeroMQ · Satori / OneBot
 - **Application development:** Tauri · Node.js · Chat bots · Automation
