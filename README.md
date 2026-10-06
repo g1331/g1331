@@ -19,12 +19,10 @@ Also building **[bf-manager](https://github.com/g1331/bf-manager)** — a Battle
 
 ## Tools & interests
 
-| | |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · Rust · C# |
-| **AI & tooling** | AI agents · Model Context Protocol · OpenAI · Claude |
-| **Protocols & systems** | AUTOSAR · CAN / DBC · ZeroMQ · Satori / OneBot |
-| **Application development** | Tauri · Node.js · Chat bots · Automation |
+- **Languages:** Python · TypeScript · Rust · C#
+- **AI & tooling:** AI agents · Model Context Protocol · OpenAI · Claude
+- **Protocols & systems:** AUTOSAR · CAN / DBC · ZeroMQ · Satori / OneBot
+- **Application development:** Tauri · Node.js · Chat bots · Automation
 
 ## On GitHub
 
