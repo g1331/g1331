@@ -4,8 +4,6 @@
 
 I build tools that connect AI to practical workflows — from model routing and MCP servers to automotive configuration and chat bots. Currently exploring Rust through hands-on projects.
 
-[Explore my repositories](https://github.com/g1331?tab=repositories) · [My stack & discoveries](https://github.com/g1331?tab=stars)
-
 ## Tools & interests
 
 - **Languages:** Python · TypeScript · Rust · C#
