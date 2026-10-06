@@ -54,5 +54,5 @@
 
 <!-- 底部：访问量统计 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=g1331&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile Views" />
+  <img src="https://www.komarev.com/ghpvc/?username=g1331&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile Views" />
 </div>
