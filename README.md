@@ -9,10 +9,10 @@
 
 <br/>
 
-<!-- 核心统计：使用稳定的 sigma-five 镜像 -->
+<!-- 统计卡片由 GitHub Actions 每日生成；失败时保留上次成功的图片。 -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=g1331&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g1331&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="languages" />
+  <img src="./profile/stats.svg" height="150" alt="stats" />
+  <img src="./profile/top-langs.svg" height="150" alt="languages" />
 </div>
 
 <br/>
@@ -54,5 +54,5 @@
 
 <!-- 底部：访问量统计 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=g1331&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=g1331&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile Views" />
 </div>
