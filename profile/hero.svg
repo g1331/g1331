@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title desc">
+  <title id="title">Umaru / g1331</title>
+  <desc id="desc">Building across AI agents, industrial protocols, and automation. A violet circuit connects the three fields.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151322" /><stop offset="1" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#b8a0f5" /><stop offset="1" stop-color="#7766c4" />
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1" fill="#b8a0f5" opacity=".10" />
+    </pattern>
+  </defs>
+  <rect width="960" height="290" rx="16" fill="url(#background)" />
+  <rect x="550" width="410" height="290" fill="url(#grid)" />
+  <path d="M0 0H960" stroke="#b8a0f5" stroke-opacity=".35" stroke-width="3" />
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="42" y="53" fill="#b8a0f5" font-family="Consolas, monospace" font-size="13" letter-spacing="3">DEVELOPER / BUILDER / EXPLORER</text>
+    <text x="38" y="134" fill="#f0edf8" font-size="72" font-weight="700" letter-spacing="-3">Umaru<tspan dx="18" fill="#a496c6" font-size="26" font-weight="400" letter-spacing="-1">/ g1331</tspan></text>
+    <text x="42" y="184" fill="#d0c8de" font-size="22">Connecting ideas to working systems.</text>
+    <text x="42" y="244" fill="#9a8fae" font-family="Consolas, monospace" font-size="14">AI AGENTS  ·  PROTOCOLS  ·  AUTOMATION</text>
+  </g>
+  <g fill="none" stroke="url(#signal)" stroke-width="2">
+    <path d="M610 145H664V69H727M664 145H727M664 145V221H727" />
+    <circle cx="596" cy="145" r="14" />
+    <circle cx="596" cy="145" r="30" stroke-opacity=".2" />
+    <circle cx="735" cy="69" r="7" />
+    <circle cx="735" cy="145" r="7" />
+    <circle cx="735" cy="221" r="7" />
+  </g>
+  <circle cx="596" cy="145" r="4" fill="#d2bfff" />
+  <g font-family="Consolas, monospace" font-size="16" fill="#e0d7f0">
+    <text x="759" y="75">AI agents</text>
+    <text x="759" y="151">Protocols</text>
+    <text x="759" y="227">Automation</text>
+  </g>
+</svg>

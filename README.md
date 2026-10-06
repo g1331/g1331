@@ -1,58 +1,37 @@
-<!-- 顶部：动态打字效果，精准描述你的三个核心身份 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+g1331;Building+Next-Gen+AI+Agents+%26+MCP;Exploring+Industrial+Protocols+(CAN%2FZMQ);Developing+Chat+Bots+%26+Automation" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="./profile/hero.svg" width="100%" alt="Umaru / g1331 — AI agents, industrial protocols, and automation" />
+</p>
 
-<div align="center">
-  <h3>🤖 AI Agent Developer | 🔌 Protocol Engineer | 🦀 Rust Learner</h3>
-</div>
+I build tools that connect AI to practical workflows — from model routing and MCP servers to automotive configuration and chat bots. Currently exploring Rust through hands-on projects.
 
-<br/>
+[Explore my repositories](https://github.com/g1331?tab=repositories) · [My stack & discoveries](https://github.com/g1331?tab=stars) · [Get in touch](mailto:caleb.1331@outlook.com)
 
-<!-- 统计卡片由 GitHub Actions 每日生成；失败时保留上次成功的图片。 -->
-<div align="center">
-  <img src="./profile/stats.svg" height="150" alt="stats" />
-  <img src="./profile/top-langs.svg" height="150" alt="languages" />
-</div>
+## Selected work
 
-<br/>
+| Project | What I'm building | Stack |
+| :--- | :--- | :--- |
+| **[autsaro](https://github.com/g1331/autsaro)** | A workbench for AUTOSAR Classic configuration and code generation. | Rust · Tauri |
+| **[AutoRouter](https://github.com/g1331/AutoRouter)** | A minimal AI API proxy for multiple upstream providers. | TypeScript |
+| **[dbc-mcp-server](https://github.com/g1331/dbc-mcp-server)** | MCP tools for editing CAN database messages, signals, and nodes. | Python · MCP · CAN |
+| **[tenko](https://github.com/g1331/tenko)** | A QQ group management bot built on Entari, with Satori / OneBot 11 and NapCat. | Python · Bot protocols |
 
-<!-- 技术栈：根据你的实际仓库定制 -->
-<div align="center">
-  <h3>🛠️ Technical Arsenal</h3>
-  
-  <!-- 第一行：核心语言 -->
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  </div>
-  
-  <br/>
-  
-  <!-- 第二行：AI & MCP (你的重点领域) -->
-  <!-- 注意：MCP 还没有官方图标，使用 Anthropic/OpenAI 代表 -->
-  <div>
-    <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Model_Context_Protocol-FF6F00?style=for-the-badge&logo=json&logoColor=white" />
-  </div>
-  
-  <br/>
-  
-  <!-- 第三行：Bot & 协议 (你的特色领域) -->
-  <div>
-    <img src="https://img.shields.io/badge/CAN_Bus-FF0000?style=for-the-badge&logo=canbus&logoColor=white" />
-    <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mirai_Bot-2980B9?style=for-the-badge&logo=probot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </div>
-</div>
+Also building **[bf-manager](https://github.com/g1331/bf-manager)** — a Battlefield server management and statistics platform.
 
-<br/>
+## Tools & interests
 
-<!-- 底部：访问量统计 -->
-<div align="center">
-  <img src="https://www.komarev.com/ghpvc/?username=g1331&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile Views" />
-</div>
+| | |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · Rust · C# |
+| **AI & tooling** | AI agents · Model Context Protocol · OpenAI · Claude |
+| **Protocols & systems** | AUTOSAR · CAN / DBC · ZeroMQ · Satori / OneBot |
+| **Application development** | Tauri · Node.js · Chat bots · Automation |
+
+## On GitHub
+
+<!-- Generated daily by .github/workflows/profile-stats.yml. Failed updates keep the last successful cards. -->
+<p align="center">
+  <img src="./profile/stats.svg" width="56%" alt="Umaru's GitHub activity statistics" />
+  <img src="./profile/top-langs.svg" width="40%" alt="Most used languages across public repositories" />
+</p>
+
+<sub>Public repository statistics, refreshed daily. Language percentages describe repository code, rather than proficiency.</sub>
