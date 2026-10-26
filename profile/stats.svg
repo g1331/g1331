@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Umaru&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 82, Total Commits  (last year) : 3006, Total PRs: 675, Total Issues: 343, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 82, Total Commits  (last year) : 3073, Total PRs: 694, Total Issues: 344, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.23897267914698;
+        stroke-dashoffset: 39.23596926877917;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >3k</text>
+      >3.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >675</text>
+      >694</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >343</text>
+      >344</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
